@@ -1,0 +1,8 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/.vs/C_Language_Study_/v17/Browse.VC.opendb
+/.vs/C_Language_Study_/v17/Browse.VC.db-wal
+/.vs/C_Language_Study_/v17/Browse.VC.db-shm
+/.vs/C_Language_Study_/v17/Browse.VC.db
