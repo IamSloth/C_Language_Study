@@ -1,21 +1,21 @@
 #include <iostream>
 #include "Arr.h"
 
-void InitArr(_tabArr* _pArr)
+void InitArr(_tagArr* _pArr)
 {
 	_pArr->pInt = (int*)malloc(sizeof(int) * 2);
 	_pArr->iCount = 0;
 	_pArr->iMaxCount = 2;
 }
 
-void ReleaseArr(_tabArr* _pArr)
+void ReleaseArr(_tagArr* _pArr)
 {
 	free(_pArr->pInt);
 	_pArr->iCount = 0;
 	_pArr->iMaxCount = 0;
 }
 
-void PushBack(_tabArr* _pArr, int _iData)
+void PushBack(_tagArr* _pArr, int _iData)
 {
 	//힙 영역에 할당한 공간이 다 참
 	if (_pArr->iCount >= _pArr->iMaxCount)
@@ -27,7 +27,7 @@ void PushBack(_tabArr* _pArr, int _iData)
 	_pArr->iCount++;
 }
 
-void Reallocate(struct _tabArr* _pArr)
+void Reallocate(struct _tagArr* _pArr)
 {
 	//1. 2배 더 큰 공간을 동적할당한다.
 	int* pTemp;

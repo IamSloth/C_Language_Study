@@ -5,7 +5,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     
-    struct _tabArr s = {};
+    struct _tagArr s = {};
 
     InitArr(&s);
 
