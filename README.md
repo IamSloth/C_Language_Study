@@ -4,7 +4,7 @@ Basic C Language Study
 
 ## 1. 자기주도 C언어 프로그래밍
 
-This folder is what I studied C language from March 2, 2022 to April 30, 2022.
+This folder has what I studied C language from March 2, 2022 to April 30, 2022.
 
 I studied by referring to the textbook below.
 
@@ -13,11 +13,9 @@ I studied by referring to the textbook below.
 
 * * *
 
-## 2. what else
+## 2. Practice
 
-sdfsdfafasdfaaosidghoaihgasdjgsadlgkjasdgoijasdfojasdfkl
-
-adfoijasdfoijasdfjasodifjoasdifjioasdfi
+This folder has what I prctice something about C or C++. 
 
 
 
