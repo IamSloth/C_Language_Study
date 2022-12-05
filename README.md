@@ -15,7 +15,7 @@ I studied by referring to the textbook below.
 
 ## 2. Practice
 
-This folder has what I prctice something about C or C++. 
+This folder has what I prctice something about C or C++ or C#. 
 
 
 
